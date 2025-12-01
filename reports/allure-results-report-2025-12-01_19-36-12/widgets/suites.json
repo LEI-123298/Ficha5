@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"b3bb2af6d133acfae69d344be9a972cf","name":"tests.VaadinDatabaseExampleDemoTest","statistic":{"failed":8,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":8}},{"uid":"12d206aca368eeb61cdb3cf2d7423d37","name":"Testes de Aceitação - Banco de Dados de Filmes Vaadin","statistic":{"failed":1,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":8}}]}
